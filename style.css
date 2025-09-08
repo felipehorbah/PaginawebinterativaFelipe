@@ -1,13 +1,43 @@
 body {
 color:burlywood;
-background:black;  
+background:black;
+margin:0px;
+font-family: Georgia, 'Times New Roman', Times, serif 
 
 
 header {
     border -bottom: solid 2px rgb (42,122,228)
     padding:20px;
     font-size:32px;
-    color
+    color:aliceblue;
+ 
 
+
+}
+section {
+ background:
+ padding-bottom: 80px;
+ padding-top: 80px;
+ display: flex;
+ justify-content: center;
+}
+.chamada de texto
+ margin-right:5%;
+
+ }
+
+ h1{font-size: 40px;
+
+}
+
+ p{ font-size:20px;
+
+ }
+ img{
+    height: 200px;
 
  
+ 
+
+
+
